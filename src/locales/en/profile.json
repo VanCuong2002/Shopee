@@ -1,0 +1,38 @@
+{
+    "aside": {
+        "edit": "Edit Profile",
+        "myAccount": "My Account",
+        "changePass": "Change Password",
+        "purchase": "My Purchase"
+    },
+    "account": {
+        "title": "My Profile",
+        "description": "Manage and protect your account",
+        "name": "Name",
+        "phoneNumber": "Phone Number",
+        "address": "Address",
+        "birth": "Date of birth",
+        "save": "Save",
+        "selectImg": "Select Image",
+        "fileSize": "File size: maximum 1 MB",
+        "fileExtension": "File extension: .JPEG, .PNG"
+    },
+    "change": {
+        "title": "Change Password",
+        "description": "For your account's security, do not share your password with anyone elset",
+        "currentPass": "Current Password",
+        "newPass": "New Password",
+        "confirmtPass": "Confirm Password",
+        "save": "Save"
+    },
+    "purchase": {
+        "all": "All",
+        "toPay": "To Pay",
+        "toShip": "To Ship",
+        "toReceive": "To Receive",
+        "completed": "Completed",
+        "cancelled": "Cancelled",
+        "totalOrder": "Order Total:",
+        "noOrders": "No orders yet"
+    }
+}

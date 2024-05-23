@@ -1,0 +1,33 @@
+{
+    "header": {
+        "notifications": "Notifications",
+        "help": "Help",
+        "signUp": "Sign Up",
+        "login": "Login",
+        "noProduct": "No Product Yet",
+        "watchCart": "View My Shopping Cart",
+        "addToCart": "Add items to cart",
+        "placeholderSearch": "Free Shipping Orders From 0 VND",
+        "recentlyAdded": "Recently Added Products"
+    },
+    "aside filter": {
+        "all categories": "All Categories",
+        "filter search": "SEARCH FILTER",
+        "price range": "Price Range",
+        "min": "MIN",
+        "max": "MAX",
+        "apply": "APPLY",
+        "rating": "Rating",
+        "up": "& Up",
+        "clear all": "CLEAR ALL"
+    },
+    "sort by": {
+        "title": "Sort by",
+        "view": "Popular",
+        "createdAt": "Latest",
+        "sold": "Top Sales",
+        "price": "Price",
+        "priceAsc": "Price: Low to High",
+        "priceDesc": "Price: High to Low"
+    }
+}

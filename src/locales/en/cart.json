@@ -1,0 +1,19 @@
+{
+    "domainCart": "Shopping Cart",
+    "noCart": "Your shopping cart is empty",
+    "buyNow": "Go Shopping Now",
+    "mayLike": "YOU MAY ALSO LIKE",
+    "title": "Shopping Cart",
+    "placeholder": "Free Shipping Orders From 0 VND",
+    "product": "Product",
+    "price": "Unit Price",
+    "quantity": "Quantity",
+    "totalPrice": "Total Price",
+    "actions": "Actions",
+    "btnDelete": "Delete",
+    "selectAll": "Select All",
+    "total": "Total",
+    "item": "item",
+    "buy": "Check Out",
+    "saved": "Saved"
+}

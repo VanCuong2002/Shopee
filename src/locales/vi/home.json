@@ -1,0 +1,33 @@
+{
+    "header": {
+        "notifications": "Thông Báo",
+        "help": "Hỗ Trợ",
+        "signUp": "Đăng Ký",
+        "login": "Đăng Nhập",
+        "noProduct": "Chưa Có Sản Phẩm",
+        "watchCart": "Xem Giỏ Hàng",
+        "addToCart": "Thêm hàng vào giỏ",
+        "placeholderSearch": "Free Ship Đơn Từ 0Đ",
+        "recentlyAdded": "Sản Phẩm Mới Thêm"
+    },
+    "aside filter": {
+        "all categories": "Tất Cả Danh Mục",
+        "filter search": "BỘ LỌC TÌM KIẾM",
+        "price range": "Khoảng Giá",
+        "min": "TỪ",
+        "max": "ĐẾN",
+        "apply": "ÁP DỤP",
+        "rating": "Đánh Giá",
+        "up": "Trở lên",
+        "clear all": "XÓA TẤT CẢ"
+    },
+    "sort by": {
+        "title": "Sắp xếp theo",
+        "view": "Phổ biến",
+        "createdAt": "Mới nhất",
+        "sold": "Bán chạy",
+        "price": "Giá",
+        "priceAsc": "Giá: Thấp đến Cao",
+        "priceDesc": "Giá: Cao đến Thấp"
+    }
+}

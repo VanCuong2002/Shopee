@@ -1,0 +1,38 @@
+{
+    "aside": {
+        "edit": "Sửa Hồ Sơ",
+        "myAccount": "Tài Khoản Của Tôi",
+        "changePass": "Đổi mật khẩu",
+        "purchase": "Đơn Mua"
+    },
+    "account": {
+        "title": "Hồ Sơ Của Bạn",
+        "description": "Quản lý thông tin hồ sơ để bảo mật tài khoản",
+        "name": "Tên",
+        "phoneNumber": "Sô điện thoại",
+        "address": "Địa chỉ",
+        "birth": "Ngày sinh",
+        "save": "Lưu",
+        "selectImg": "Chọn Ảnh",
+        "fileSize": "Dung lượng file tối đa 1 MB",
+        "fileExtension": "Đinh dạng: .JPEG, .PNG"
+    },
+    "change": {
+        "title": "Thay Đổi Mật Khẩu",
+        "description": "Để bảo mật tài khoản, vui lòng không chia sẻ mật khẩu cho người khác",
+        "currentPass": "Mật Khẩu Hiện Tại",
+        "newPass": "Mật Khẩu Mới",
+        "confirmtPass": "Xác Thực Mật Khẩu",
+        "save": "Lưu"
+    },
+    "purchase": {
+        "all": "Tất cả",
+        "toPay": "Chờ thanh toán",
+        "toShip": "Vận chuyển",
+        "toReceive": "Chờ giao hàng",
+        "completed": "Hoàn thành",
+        "cancelled": "Đã hủy",
+        "totalOrder": "Thành tiền:",
+        "noOrders": "Chưa có đơn hàng"
+    }
+}
