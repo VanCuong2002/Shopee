@@ -5,6 +5,7 @@ import 'react-toastify/dist/ReactToastify.css'
 import { AppContext } from 'src/contexts/app.context'
 import { LocalStorageEventTarget } from 'src/utils/auth'
 import useRouteElements from 'src/router/useRouteElements'
+import ScrollToTop from 'src/components/ScrollToTop'
 
 function App() {
     const routeElement = useRouteElements()
@@ -19,6 +20,7 @@ function App() {
 
     return (
         <>
+            <ScrollToTop />
             {routeElement}
             <ToastContainer />
         </>
